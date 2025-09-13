@@ -1,0 +1,20 @@
+/* Tailwind v4 */
+@import "tailwindcss";
+
+@theme {
+  /* ## Colors */
+
+  --color-White: hsl(0, 0%, 100%);
+
+  --color-Slate-300: hsl(212, 45%, 89%);
+  --color-Slate-500: hsl(216, 15%, 48%);
+  --color-Slate-900: hsl(218, 44%, 22%);
+
+  /* ## Typography */
+
+  /* ### Body Copy */
+  /* (paragraph) */
+  --text-Font-size: 15px;
+
+  /* ### Font */
+}
